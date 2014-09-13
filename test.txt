@@ -1,3 +1,1 @@
-GitHubハンズオン
-2014/09/13
-テストファイル
+GitHub change
